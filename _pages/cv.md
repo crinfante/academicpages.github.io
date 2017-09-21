@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 
 ### PhD in Biology, 2008
-[Department of Organismic and Evolutionary Biology, Harvard University] (https://oeb.harvard.edu) 
+[Department of Organismic and Evolutionary Biology, Harvard University](https://oeb.harvard.edu) 
 
 ## Research & professional experience
 
