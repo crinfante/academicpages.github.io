@@ -21,10 +21,10 @@ Education
 
 	- [Department of Organismic and Evolutionary Biology, Harvard University] (https://oeb.harvard.edu)
 	- Dissertation: 
-	- Advisor: [James Hanken] (https://oeb.harvard.edu/people/james-hanken)
+	- Advisor: [James Hanken](https://oeb.harvard.edu/people/james-hanken)
 	
 - **BS in Zoology, 1997**
 
-	- [University of Texas at Austin] (https://integrativebio.utexas.edu)
+	- [University of Texas at Austin](https://integrativebio.utexas.edu)
 
 -->
