@@ -26,5 +26,3 @@ Education
 - **BS in Zoology, 1997**
 
 	- [University of Texas at Austin](https://integrativebio.utexas.edu)
-
--->
