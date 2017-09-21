@@ -19,7 +19,7 @@ Education
 
 - **PhD in Biology, 2008**
 
-	- [Department of Organismic and Evolutionary Biology, Harvard University] (https://oeb.harvard.edu)
+	- [Department of Organismic and Evolutionary Biology, Harvard University](https://oeb.harvard.edu)
 	- Dissertation: 
 	- Advisor: [James Hanken](https://oeb.harvard.edu/people/james-hanken)
 	
