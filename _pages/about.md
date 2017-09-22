@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biologist using genomics to study the evolution and development of vertebrates"
+title: "Biologist studying regulatory evolution and vertebrate development"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
