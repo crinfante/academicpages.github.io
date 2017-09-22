@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+I am a research professor at the University of Arizona studying how evolution of regulatory networks shapes vertebrate morphology. My research integrates comparative and functional genomics, epigenetics, and developmental biology.
+
+Previously, I was a senior research scientist in the Genetics Department at the University of Georgia, and a postdoctoral fellow at Harvard University.
+
+I received a B.S. in Zoology from the University of Texas at Austin and a Ph.D. in Biology from the Department of Organismic and Evolutionary Biology at Harvard University.
+
+<!--
 
 Work
 ======
@@ -26,3 +33,5 @@ Education
 - **BS in Zoology, 1997**
 
 	- [University of Texas at Austin](https://integrativebio.utexas.edu)
+
+-->
