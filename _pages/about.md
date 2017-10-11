@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biologist studying regulatory evolution and vertebrate development"
+title: "Biologist studying evolution and development"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research professor at the University of Arizona studying how evolution of regulatory networks shapes vertebrate morphology. My research integrates comparative and functional genomics, epigenetics, and developmental biology.
+I am a research professor at the University of Arizona studying how the evolution of regulatory networks shapes vertebrate morphology. My research integrates comparative and functional genomics, epigenetics, and developmental biology.
 
 Previously, I was a senior research scientist in the Genetics Department at the University of Georgia, and a postdoctoral fellow at Harvard University.
 
