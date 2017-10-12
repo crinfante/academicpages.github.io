@@ -19,10 +19,10 @@ redirect_from:
 [Department of Organismic and Evolutionary Biology, Harvard University](https://oeb.harvard.edu) 
 
 ## Research & Professional Experience
-### 2015 - pres.: Assistant Research Professor, University of Arizona, Tucson, AZ
-### 2015 - 2017: Senior Research Associate, University of Georgia, Athens, GA
-###	2010 - 2015: Postdoctoral Research Associate, University of Georgia, Athens, GA
-### 2008 - 2010: Postdoctoral Fellow, Harvard University, Cambridge, MA
+#### 2015 - pres.: Assistant Research Professor, University of Arizona, Tucson, AZ
+#### 2015 - 2017: Senior Research Associate, University of Georgia, Athens, GA
+####	2010 - 2015: Postdoctoral Research Associate, University of Georgia, Athens, GA
+#### 2008 - 2010: Postdoctoral Fellow, Harvard University, Cambridge, MA
 
 ## Grants
 _Research Grants The asterisk (*) indicates a grant for which I was not a PI, but provided preliminary data and contributed to design, development, and writing._
@@ -30,9 +30,8 @@ _Research Grants The asterisk (*) indicates a grant for which I was not a PI, bu
 ### 2012  *National Science Foundation CAREER Award (IOS-1149453): Developmental evolution of limb morphology. PI: Douglas Menke (UGA)
 ### 2003  Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA ($9,709)
 ### 2001  Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA ($4,897)
-
 _Pending Proposals_
-### 2017 National Science Foundation Collaborative Research Grant: Enhancers and the convergent evolution of limb reduction in squamates. PI: Carlos R. Infante. Co-PIs: Brant Faircloth (LSU), Travis Glenn (UGA), Douglas Menke (UGA). Pre proposal rated “Outstanding”, full proposal submitted. ($1,348,630 requested) 
+### 2017 National Science Foundation Collaborative Research Grant: Enhancers and the convergent evolution of limb reduction in squamates. PI: Carlos R. Infante. Co-PIs: Brant Faircloth (LSU), Travis Glenn (UGA), Douglas Menke (UGA). Pre proposal rated “Outstanding”, full proposal submitted. ($1,348,630 requested)
 
 ## Fellowships & Awards
 ### 2015 		Trainee Travel Award, Society for Developmental Biology and the Pan-American Society for Evolutionary Developmental Biology
