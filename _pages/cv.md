@@ -15,26 +15,26 @@ redirect_from:
 
 ## Research & professional experience
 
-#### 2015&#8211;pres: Assistant Research Professor, University of Arizona, Tucson, AZ
+### 2015-pres: Assistant Research Professor, University of Arizona, Tucson, AZ
 
-#### 2015-2017: Senior Research Associate, University of Georgia, Athens, GA
+### 2015-2017: Senior Research Associate, University of Georgia, Athens, GA
 
-#### 2010-2015: Postdoctoral Research Associate, University of Georgia, Athens, GA
+### 2010-2015: Postdoctoral Research Associate, University of Georgia, Athens, GA
 
-#### 2008-2010: Postdoctoral Fellow, Harvard University, Cambridge, MA
+### 2008-2010: Postdoctoral Fellow, Harvard University, Cambridge, MA
 
 
 ## Education
 
-#### PhD in Biology, 2008 
+### PhD in Biology, 2008 
 
 [Department of Organismic and Evolutionary Biology, Harvard University](https://oeb.harvard.edu) 
 
-#### BS in Zoology, 1997
+### BS in Zoology, 1997
 
 [Department of Zoology, The University of Texas at Austin](https://integrativebio.utexas.edu)
 
-#### BA in Liberal Arts, 1997
+### BA in Liberal Arts, 1997
 
 [Plan II Honors Program, The University of Texas at Austin](https://liberalarts.utexas.edu/plan2/)
 
