@@ -13,26 +13,30 @@ redirect_from:
 
 ---
 
-## Research & Professional Experience
-### 2015 - pres.: Assistant Research Professor, University of Arizona, Tucson, AZ
-### 2015 - 2017: Senior Research Associate, University of Georgia, Athens, GA
-###	2010 - 2015: Postdoctoral Research Associate, University of Georgia, Athens, GA
-### 2008 - 2010: Postdoctoral Fellow, Harvard University, Cambridge, MA
+## Research & professional experience
+---
+2015 - pres.: Assistant Research Professor, University of Arizona, Tucson, AZ
+2015 - 2017: Senior Research Associate, University of Georgia, Athens, GA
+2010 - 2015: Postdoctoral Research Associate, University of Georgia, Athens, GA
+2008 - 2010: Postdoctoral Fellow, Harvard University, Cambridge, MA
 
 ## Education
+---
 ### PhD in Biology, 2008
 [Department of Organismic and Evolutionary Biology, Harvard University](https://oeb.harvard.edu) 
 
 ## Grants
-### 2014  *National Institute of Health Project Grant (NICHD-R01HD081034): Developmental context and the control of appendage cis-regulatory networks. PI: Douglas Menke (UGA)
-### 2012  *National Science Foundation CAREER Award (IOS-1149453): Developmental evolution of limb morphology. PI: Douglas Menke (UGA)
-### 2003  Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA ($9,709)
-### 2001  Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA ($4,897)
-_Pending Proposals_
-### 2017 National Science Foundation Collaborative Research Grant: Enhancers and the convergent evolution of limb reduction in squamates. PI: Carlos R. Infante. Co-PIs: Brant Faircloth (LSU), Travis Glenn (UGA), Douglas Menke (UGA). Pre proposal rated “Outstanding”, full proposal submitted. ($1,348,630 requested)
+---
 _Research Grants The asterisk (*) indicates a grant for which I was not a PI, but provided preliminary data and contributed to design, development, and writing._
+2014  *National Institute of Health Project Grant (NICHD-R01HD081034): Developmental context and the control of appendage cis-regulatory networks. PI: Douglas Menke (UGA)
+2012  *National Science Foundation CAREER Award (IOS-1149453): Developmental evolution of limb morphology. PI: Douglas Menke (UGA)
+2003  Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA ($9,709)
+2001  Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA ($4,897)
+_Pending Proposals_
+2017 National Science Foundation Collaborative Research Grant: Enhancers and the convergent evolution of limb reduction in squamates. PI: Carlos R. Infante. Co-PIs: Brant Faircloth (LSU), Travis Glenn (UGA), Douglas Menke (UGA). Pre proposal rated “Outstanding”, full proposal submitted. ($1,348,630 requested)
 
 ## Fellowships & Awards
+---
 ### 2015 		Trainee Travel Award, Society for Developmental Biology and the Pan-American Society for Evolutionary Developmental Biology
 ### 2007 		Ford Fund Fellowship, Museum of Comparative Zoology, Harvard University, Cambridge, MA
 ### 2003 		Milton L. Shifman Endowed Scholarship, Marine Biological Laboratory, Woods Hole, MA
@@ -40,6 +44,7 @@ _Research Grants The asterisk (*) indicates a grant for which I was not a PI, bu
 ### 2000 – 2002	Predoctoral Genetics and Genomics Training Grant Fellowship, National Institutes of Health
 
 ## Publications
+---
 <ol reversed>
 <li>Domyan, ET, Z Kronenberg, CR Infante, AI Vickery, SA Stringham, R Bruders, MW Guernsey, S Park, J Payne, RB Beckstead, G Kardon, DB Menke, M Yandell, and MD Shapiro. 2016. Molecular shifts in limb identity underlie development of feathered feet in two domestic avian species. Elife. 2016(5): e12115. DOI: 10.7554/eLife.12115</li>
 <li><b>Infante, CR</b>, AG Mihala, S Park, JS Wang, KK Johnson, JD Lauderdale, and DB Menke. 2015. Shared cis-regulatory activity in the limbs and phallus and functional divergence of a limb- genital enhancer in snakes. Developmental Cell. 35: 107-119. DOI: 10.1016/j.devcel. 2015.09.003. Covered by National Public Radio’s “Science Friday” and National Geographic’s “Not Exactly Rocket Science” blog.</li>
@@ -65,16 +70,15 @@ _The asterisk (*) denotes equal contribution; † denotes undergraduate mentee._
 
 
 ## Talks
+---
 
 
 
 ## Professional activities and Service
-
+---
 - **President**, University of Georgia Postdoctoral Association (2012 - 2014)
 - **Board Member**, University of Georgia Postdoctoral Association (2011 - 2012)
 - **Member**, Society for Developmental Biology; Pan-American Society for Evolutionary Developmental Biology; Society for the Study of Evolution; American Society of Ichthyologists and Herpetologists; Sigma Xi
-
-
 
 
 <!--
