@@ -22,7 +22,7 @@ Tollis, M, ED Hutchins, J Stapley, SM Rupp, WL Eckalbar, I Maayan, E Lasku, CR I
 
 Wang, JS, CR Infante, S Park, and DB Menke. PITX1 promotes chondrogenesis and myogenesis in mouse hindlimbs through conserved regulatory targets. Developmental Biology, [dx.doi.org:10.1016/j.ydbio.2017.12.013](https://doi.org/10.1016/j.ydbio.2017.12.013).
 
-Ching, ST, CR Infante, W Du, A Sharir, S Park, DB Menke, and OD Klein. Isl1 mediates expansion of mesenchymal cells in the developing external genitalia via regulation of Bmp4, Fgf10, and Wnt5a. Human Molecular Genetics,[dx.doi.org:10.1093/hmg/ddx388](https://doi.org/10.1093/hmg/ddx388).
+Ching, ST, CR Infante, W Du, A Sharir, S Park, DB Menke, and OD Klein. Isl1 mediates expansion of mesenchymal cells in the developing external genitalia via regulation of Bmp4, Fgf10, and Wnt5a. Human Molecular Genetics, [dx.doi.org:10.1093/hmg/ddx388](https://doi.org/10.1093/hmg/ddx388).
 
 Infante, CR, AM Rasys, and DB Menke. Appendages and gene regulatory networks: lessons from the limbless. Genesis, [dx.doi.org:10.1002/dvg.23078](https://doi.org/10.1002/dvg.23078).
 
