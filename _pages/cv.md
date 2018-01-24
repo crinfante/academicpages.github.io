@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download as PDF](https://crinfante.github.io/files/InfanteCR_cv_2017_10.pdf)**
+**[Download as PDF](https://crinfante.github.io/files/InfanteCR_cv_2018_1.pdf)**
 
 ---
 
@@ -38,6 +38,10 @@ redirect_from:
 [Plan II Honors Program, The University of Texas at Austin](https://liberalarts.utexas.edu/plan2/)
 
 
+## Grants
+
+- National Science Foundation Collaborative Research Grant: Enhancers and the convergent evolution of limb reduction in squamates, 2018
+
 ## Honors & awards
 
 - Trainee Travel Award, Society for Developmental Biology and the Pan-American Society for Evolutionary Developmental Biology, 2015
@@ -49,6 +53,7 @@ redirect_from:
 
 ## Teaching experience
 
+- Genetic and Molecular Networks, University of Arizona, 2018
 - Foundations of Biological Diversity, Harvard University, 2006
 - Genetics and Genomics, Harvard University, 2005
 - Integrative Biology of Organisms, Harvard University, 2000 & 2005
