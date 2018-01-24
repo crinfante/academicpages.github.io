@@ -16,6 +16,21 @@ author_profile: true
 {% endfor %}
 -->
 
+### Grants
+
+Infante, CR, BC Faircloth, TC Glenn, DB Menke. 2018. Enhancers and the convergent evolution of limb reduction in squamates. National Science Foundation Collaborative Research Grant ($1,263,668). Start date August 1, 2018.
+
+\*Menke, DB. 2014. Developmental context and the control of appendage cis-regulatory networks. National Institute of Health Project Grant ([NICHD-R01HD081034](https://projectreporter.nih.gov/project_info_description.cfm?aid=9257444&icde=36450813)).
+
+\*Menke, DB. 2012. Developmental evolution of limb morphology. National Science Foundation CAREER Award [IOS-1149453](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1149453)).
+
+Infante, CR. 2003. Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA.
+
+Infante, CR. 2001. Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA.
+
+_The asterisk (*) indicates a grant for which I was not a PI, but provided preliminary data and contributed to design, development, and writing._
+
+
 ### Publications
 
 Tollis, M, ED Hutchins, J Stapley, SM Rupp, WL Eckalbar, I Maayan, E Lasku, CR Infante, SR Dennis, JA Robertson, CM May, MR Crusoe, E Bermingham, DF DeNardo, ST Hsieh, RJ Kulathinal, MJ Huentelman, WO McMillan, DB Menke, SC Pratt, JA Rawls, O Sanjur, J Wilson- Rawls, MA Wilson Sayres, RE Fisher, and K Kusumi. Comparative genomics reveals accelerated evolution in conserved pathways during the diversification of anole lizards. Genome Biology and Evolution, [dx.doi.org:10.1093/gbe/evy013](https://doi.org/10.1093/gbe/evy013).
@@ -49,21 +64,6 @@ _In preparation_
 Infante, CR, S Park, JS Wang, S Pau†, J Sanders, S Poe, S Pierce, RE Glor, L Mahler, JB Losos, DM Kingsley, and DB Menke. Functional divergence of a Tbx4 enhancer and the adaptive radiation of Anolis lizards. To be submitted to Nature.
 
 _The asterisk (*) denotes equal contribution; † denotes undergraduate mentee._
-
-
-### Grants
-
-Infante, CR, BC Faircloth, TC Glenn, DB Menke. 2018. Enhancers and the convergent evolution of limb reduction in squamates. National Science Foundation Collaborative Research Grant ($1,348,630). Start date August 1, 2018.
-
-\*Menke, DB. 2014. Developmental context and the control of appendage cis-regulatory networks. National Institute of Health Project Grant ([NICHD-R01HD081034](https://projectreporter.nih.gov/project_info_description.cfm?aid=9257444&icde=36450813)).
-
-\*Menke, DB. 2012. Developmental evolution of limb morphology. National Science Foundation CAREER Award [IOS-1149453](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1149453)).
-
-Infante, CR. 2003. Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA.
-
-Infante, CR. 2001. Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA.
-
-_The asterisk (*) indicates a grant for which I was not a PI, but provided preliminary data and contributed to design, development, and writing._
 
 
 ### Invited Seminars
@@ -127,7 +127,7 @@ Infante, CR, and J Hanken. 2005. Metamorphosis and the evolution of jaw morpholo
 
 Infante, CR, S Park, and DB Menke. 2017. The transcription factor Isl1 is associated with multiple signalling pathways important during genital development. [GSE91082](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE91082).
 
-Domyan, ET, MD Shapiro, CR Infante, and DB Menke. 2016. A molecular shift in limb identity underlies the convergent evolution and development of feathered feet. [GSE67875](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67875)
+Domyan, ET, MD Shapiro, CR Infante, and DB Menke. 2016. A molecular shift in limb identity underlies the convergent evolution and development of feathered feet. [GSE67875](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67875).
 
 Infante, CR, AG Mihala, S Park, JD Lauderdale, and DB Menke. 2015. Identifying active cis-regulatory elements during the development of the limbs and external genitalia in the mouse and lizard. [GSE64055](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64055).
 
