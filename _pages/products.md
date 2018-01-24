@@ -18,6 +18,14 @@ author_profile: true
 
 ### Publications
 
+Tollis, M, ED Hutchins, J Stapley, SM Rupp, WL Eckalbar, I Maayan, E Lasku, CR Infante, SR Dennis, JA Robertson, CM May, MR Crusoe, E Bermingham, DF DeNardo, ST Hsieh, RJ Kulathinal, MJ Huentelman, WO McMillan, DB Menke, SC Pratt, JA Rawls, O Sanjur, J Wilson- Rawls, MA Wilson Sayres, RE Fisher, and K Kusumi. Comparative genomics reveals accelerated evolution in conserved pathways during the diversification of anole lizards. Genome Biology and Evolution, [dx.doi.org:10.1093/gbe/evy013](https://doi.org/10.1093/gbe/evy013).
+
+Wang, JS, CR Infante, S Park, and DB Menke. PITX1 promotes chondrogenesis and myogenesis in mouse hindlimbs through conserved regulatory targets. Developmental Biology, [dx.doi.org:10.1016/j.ydbio.2017.12.013](https://doi.org/10.1016/j.ydbio.2017.12.013).
+
+Ching, ST, CR Infante, W Du, A Sharir, S Park, DB Menke, and OD Klein. Isl1 mediates expansion of mesenchymal cells in the developing external genitalia via regulation of Bmp4, Fgf10, and Wnt5a. Human Molecular Genetics,[dx.doi.org:10.1093/hmg/ddx388](https://doi.org/10.1093/hmg/ddx388).
+
+Infante, CR, AM Rasys, and DB Menke. Appendages and gene regulatory networks: lessons from the limbless. Genesis, [dx.doi.org:10.1002/dvg.23078](https://doi.org/10.1002/dvg.23078).
+
 Domyan, ET, Z Kronenberg, CR Infante, AI Vickery, SA Stringham, R Bruders, MW Guernsey, S Park, J Payne, RB Beckstead, G Kardon, DB Menke, M Yandell, and MD Shapiro. 2016. Molecular shifts in limb identity underlie development of feathered feet in two domestic avian species. Elife. 2016(5): e12115. [dx.doi.org:10.7554/eLife.12115](https://elifesciences.org/articles/12115).
 
 Infante, CR, AG Mihala, S Park, JS Wang, KK Johnson, JD Lauderdale, and DB Menke. 2015. Shared cis-regulatory activity in the limbs and phallus and functional divergence of a limb- genital enhancer in snakes. Developmental Cell. 35: 107-119. [dx.doi.org:10.1016/j.devcel.2015.09.003](http://www.sciencedirect.com/science/article/pii/S1534580715005833). Covered by National Public Radio’s “Science Friday” and National Geographic’s “Not Exactly Rocket Science” blog.
@@ -36,16 +44,6 @@ Siler, CD, LJ Welton, RM Brown, CR Infante, and AC Diesmos. 2011. Ophiophagus ha
 
 LaDuc, TJ, and CR Infante. 2001. New Texas county records of amphibians and reptiles. Herpetological Review. 32(4): 284-285.
 
-_In review_
-
-Ching, ST, CR Infante, W Du, A Sharir, S Park, DB Menke, and OD Klein. Isl1 mediates expansion of mesenchymal cells in the developing external genitalia via regulation of Bmp4, Fgf10, and Wnt5a. Human Molecular Genetics, _In review_.
-
-Infante, CR, AM Rasys, and DB Menke. Appendages and gene regulatory networks: lessons from the limbless. Genesis, _Accepted_.
-
-Tollis, M, ED Hutchins, J Stapley, SM Rupp, WL Eckalbar, I Maayan, E Lasku, CR Infante, S Dennis, JA Robertson, CM May, MR Crusoe, E Bermingham, DF DeNardo, ST Hsieh, MJ Huentelman, RJ Kulathinal, WO McMillan, DB Menke, SC Pratt, JA Rawls, O Sanjur, J Wilson- Rawls, MA Wilson Sayres, RE Fisher, and K Kusumi. Comparative genomics reveals accelerated evolution in conserved pathways during the diversification of anole lizards. Genome Biology and Evolution, _In review_.
-
-Wang, JS, CR Infante, S Park, and DB Menke. PITX1 promotes chondrogenesis and myogenesis in mouse hindlimbs through conserved regulatory targets. Developmental Biology, _In review_.
-
 _In preparation_
 
 Infante, CR, S Park, JS Wang, S Pau†, J Sanders, S Poe, S Pierce, RE Glor, L Mahler, JB Losos, DM Kingsley, and DB Menke. Functional divergence of a Tbx4 enhancer and the adaptive radiation of Anolis lizards. To be submitted to Nature.
@@ -55,17 +53,15 @@ _The asterisk (*) denotes equal contribution; † denotes undergraduate mentee._
 
 ### Grants
 
-\*Menke, DB. 2014. "Developmental context and the control of appendage cis-regulatory networks." National Institute of Health Project Grant ([NICHD-R01HD081034](https://projectreporter.nih.gov/project_info_description.cfm?aid=9257444&icde=36450813)).
+Infante, CR, BC Faircloth, TC Glenn, DB Menke. 2018. Enhancers and the convergent evolution of limb reduction in squamates. National Science Foundation Collaborative Research Grant ($1,348,630). Start date August 1, 2018.
 
-\*Menke, DB. 2012. "Developmental evolution of limb morphology." National Science Foundation CAREER Award [IOS-1149453](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1149453)).
+\*Menke, DB. 2014. Developmental context and the control of appendage cis-regulatory networks. National Institute of Health Project Grant ([NICHD-R01HD081034](https://projectreporter.nih.gov/project_info_description.cfm?aid=9257444&icde=36450813)).
+
+\*Menke, DB. 2012. Developmental evolution of limb morphology. National Science Foundation CAREER Award [IOS-1149453](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1149453)).
 
 Infante, CR. 2003. Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA.
 
 Infante, CR. 2001. Putnam Expeditionary Grant, Museum of Comparative Zoology, Harvard University, Cambridge, MA.
-
-_Pending Proposals_
-
-Infante, CR, BC Faircloth, TC Glenn, DB Menke. "Enhancers and the convergent evolution of limb reduction in squamates". National Science Foundation Collaborative Research Grant. IOS preliminary proposal rated “Outstanding”, invited proposal submitted in August 2017.
 
 _The asterisk (*) indicates a grant for which I was not a PI, but provided preliminary data and contributed to design, development, and writing._
 
@@ -129,7 +125,11 @@ Infante, CR, and J Hanken. 2005. Metamorphosis and the evolution of jaw morpholo
 
 ### Datasets
 
-Infante, CR, AG Mihala, S Park, JD Lauderdale, and DB Menke. 2015. "Identifying active cis-regulatory elements during the development of the limbs and external genitalia in the mouse and lizard." [GSE64055](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64055).
+Infante, CR, S Park, and DB Menke. 2017. The transcription factor Isl1 is associated with multiple signalling pathways important during genital development. [GSE91082](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE91082).
 
-Infante, CR, S Park, and DB Menke. 2012. "Pitx1 broadly associates with limb enhancers and is enriched on hindlimb regulatory elements." [GSE41591](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE41591).
+Domyan, ET, MD Shapiro, CR Infante, and DB Menke. 2016. A molecular shift in limb identity underlies the convergent evolution and development of feathered feet. [GSE67875](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67875)
+
+Infante, CR, AG Mihala, S Park, JD Lauderdale, and DB Menke. 2015. Identifying active cis-regulatory elements during the development of the limbs and external genitalia in the mouse and lizard. [GSE64055](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64055).
+
+Infante, CR, S Park, and DB Menke. 2012. Pitx1 broadly associates with limb enhancers and is enriched on hindlimb regulatory elements. [GSE41591](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE41591).
 
