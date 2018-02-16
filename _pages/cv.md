@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download as PDF](https://crinfante.github.io/files/InfanteCR_cv_2018_1.pdf)**
+**[Download as PDF](https://crinfante.github.io/files/InfanteCR_cv_2018_2.pdf)**
 
 ---
 
