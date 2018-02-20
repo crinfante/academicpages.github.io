@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: /assets/images/mike-wilson-51655-unsplash.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#333"
 ---
 
 I am a research professor at the University of Arizona studying how the evolution of regulatory networks shapes vertebrate morphology using both model and non-model species. My research integrates phylogeny, ecology, genomics, genetics, and developmental biology.
