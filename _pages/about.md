@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Biologist studying vertebrate evolution and development"
-excerpt: "About me"
+header:
+  image: /assets/images/Tropidophis-melanurus-gitmo-banner.jpg
 author_profile: true
 redirect_from: 
   - /about/
