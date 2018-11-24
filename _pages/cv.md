@@ -8,13 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download as PDF](https://crinfante.github.io/files/InfanteCR_cv_2018_2.pdf)**
+**[Download as PDF](https://crinfante.github.io/files/InfanteCR-cv-2018-9.pdf)**
 
 ---
 
 ## Research & professional experience
 
-### 2015-pres: Assistant Research Professor, University of Arizona, Tucson, AZ
+### 2018-pres: Assistant Professor, University of Colorado Denver, Denver, CO
+
+### 2015-2018: Assistant Research Professor, University of Arizona, Tucson, AZ
 
 ### 2015-2017: Senior Research Associate, University of Georgia, Athens, GA
 
@@ -53,6 +55,7 @@ redirect_from:
 
 ## Teaching experience
 
+- General Genetics, University of Colorado, Denver, 2018, 2019
 - Genetic and Molecular Networks, University of Arizona, 2018
 - Foundations of Biological Diversity, Harvard University, 2006
 - Genetics and Genomics, Harvard University, 2005
